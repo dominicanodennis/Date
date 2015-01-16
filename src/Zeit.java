@@ -43,7 +43,7 @@ public class Zeit {
 		SimpleDateFormat f1 = new SimpleDateFormat("EEEE, 'der 'd.MMMM YYYY");
 		
 		System.out.println(f1.format(d4));
-		
+		System.out.println();
 
 	}
 
